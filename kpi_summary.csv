@@ -1,0 +1,2 @@
+total_bookings,total_recorded_fare,average_fare,confirmed_bookings,cancelled_bookings,cancellation_rate_pct,unique_trains,unique_source_destination_pairs,average_booking_lead_days
+500,677975,1355.95,245,33,6.6,5,25,30.3
