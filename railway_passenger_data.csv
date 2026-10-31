@@ -1,0 +1,501 @@
+Booking_ID,Passenger_ID,Train_Name,Source,Destination,Journey_Date,Booking_Date,Class,Passenger_Age,Gender,Fare,Payment_Mode,Booking_Status,Cancellation_Status
+BK001,P500,Rajdhani Express,Mumbai,Pune,2026-11-06,2026-10-06,SL,37,Female,2297,UPI,Confirmed,No
+BK002,P501,Duronto Express,Mumbai,Pune,2026-12-13,2026-11-04,3A,28,Female,499,Debit Card,Confirmed,No
+BK003,P502,Garib Rath,Raipur,Pune,2026-08-17,2026-07-01,3A,64,Male,602,Cash,Confirmed,No
+BK004,P503,Duronto Express,Raipur,Mumbai,2026-09-04,2026-07-11,2A,43,Female,1509,Credit Card,Waiting List,No
+BK005,P504,Shatabdi Express,Bilaspur,Delhi,2026-02-07,2025-12-19,3A,65,Female,1749,Credit Card,Waiting List,No
+BK006,P505,Duronto Express,Raipur,Bhopal,2026-08-14,2026-06-19,CC,56,Male,585,Cash,Confirmed,No
+BK007,P506,Garib Rath,Bilaspur,Mumbai,2026-01-25,2026-01-09,CC,26,Male,1637,UPI,RAC,No
+BK008,P507,Shatabdi Express,Mumbai,Kolkata,2026-07-18,2026-07-15,3A,55,Male,963,UPI,Confirmed,No
+BK009,P508,Vande Bharat,Delhi,Bhopal,2026-04-20,2026-02-21,CC,50,Female,519,Cash,Waiting List,Yes
+BK010,P509,Duronto Express,Nagpur,Delhi,2026-12-22,2026-11-16,3A,18,Female,430,Cash,Waiting List,No
+BK011,P510,Garib Rath,Nagpur,Pune,2026-01-26,2026-01-10,2A,44,Male,1635,UPI,RAC,No
+BK012,P511,Shatabdi Express,Bilaspur,Pune,2026-06-24,2026-05-07,CC,61,Female,585,UPI,Confirmed,No
+BK013,P512,Vande Bharat,Nagpur,Pune,2026-10-17,2026-09-19,CC,25,Male,1243,Credit Card,Waiting List,Yes
+BK014,P513,Rajdhani Express,Raipur,Kolkata,2026-04-23,2026-03-31,3A,21,Female,820,Credit Card,Confirmed,No
+BK015,P514,Garib Rath,Raipur,Pune,2026-09-27,2026-09-18,2A,64,Male,1570,Cash,Confirmed,No
+BK016,P515,Rajdhani Express,Bilaspur,Mumbai,2026-01-22,2025-12-12,2A,54,Female,2076,Credit Card,RAC,No
+BK017,P516,Duronto Express,Nagpur,Delhi,2026-03-07,2026-02-21,2A,23,Male,749,UPI,Confirmed,No
+BK018,P517,Duronto Express,Raipur,Pune,2026-12-15,2026-11-24,2A,59,Female,441,Credit Card,Confirmed,Yes
+BK019,P518,Shatabdi Express,Bilaspur,Kolkata,2026-10-04,2026-09-16,3A,39,Male,768,Debit Card,Confirmed,No
+BK020,P519,Garib Rath,Raipur,Bhopal,2026-03-24,2026-01-27,CC,63,Male,2283,UPI,Confirmed,No
+BK021,P520,Garib Rath,Mumbai,Kolkata,2026-11-03,2026-10-15,2A,55,Female,707,Cash,Confirmed,No
+BK022,P521,Vande Bharat,Nagpur,Delhi,2026-02-02,2025-12-17,2A,56,Male,2427,Debit Card,Confirmed,No
+BK023,P522,Duronto Express,Nagpur,Mumbai,2026-04-08,2026-03-02,SL,43,Male,1934,Cash,Confirmed,No
+BK024,P523,Shatabdi Express,Nagpur,Bhopal,2026-02-02,2025-12-06,3A,33,Male,2152,Credit Card,Waiting List,No
+BK025,P524,Duronto Express,Mumbai,Bhopal,2026-11-24,2026-11-23,3A,52,Female,1544,UPI,Confirmed,No
+BK026,P525,Garib Rath,Nagpur,Mumbai,2026-11-08,2026-11-01,2A,27,Female,1470,UPI,RAC,No
+BK027,P526,Garib Rath,Delhi,Mumbai,2026-03-20,2026-03-18,SL,54,Male,895,Credit Card,RAC,No
+BK028,P527,Shatabdi Express,Nagpur,Bhopal,2026-12-27,2026-11-04,3A,53,Female,616,Credit Card,Waiting List,No
+BK029,P528,Vande Bharat,Nagpur,Bhopal,2026-01-01,2025-11-06,3A,41,Female,1525,Debit Card,Waiting List,No
+BK030,P529,Vande Bharat,Bilaspur,Bhopal,2026-02-17,2026-01-25,3A,45,Male,432,UPI,RAC,No
+BK031,P530,Rajdhani Express,Delhi,Delhi,2026-09-27,2026-08-10,2A,56,Male,823,Debit Card,Confirmed,No
+BK032,P531,Vande Bharat,Mumbai,Mumbai,2026-09-05,2026-08-31,SL,22,Female,602,Cash,Waiting List,No
+BK033,P532,Duronto Express,Mumbai,Delhi,2026-12-27,2026-12-09,3A,35,Male,840,Credit Card,RAC,No
+BK034,P533,Garib Rath,Delhi,Kolkata,2026-05-20,2026-03-22,CC,55,Female,2282,UPI,Waiting List,No
+BK035,P534,Garib Rath,Raipur,Pune,2026-11-01,2026-10-31,CC,20,Female,1199,Credit Card,Confirmed,No
+BK036,P535,Vande Bharat,Raipur,Pune,2026-10-17,2026-10-04,3A,48,Female,2332,Debit Card,Confirmed,No
+BK037,P536,Garib Rath,Raipur,Bhopal,2026-09-17,2026-07-22,3A,49,Female,941,Debit Card,Waiting List,No
+BK038,P537,Vande Bharat,Nagpur,Mumbai,2026-01-13,2025-11-14,3A,24,Male,498,Cash,Confirmed,No
+BK039,P538,Vande Bharat,Delhi,Mumbai,2026-10-20,2026-10-06,CC,50,Male,2211,Cash,Confirmed,No
+BK040,P539,Rajdhani Express,Nagpur,Pune,2026-12-14,2026-10-21,CC,47,Female,1117,Credit Card,RAC,No
+BK041,P540,Rajdhani Express,Nagpur,Delhi,2026-11-24,2026-10-22,2A,19,Female,715,Credit Card,RAC,No
+BK042,P541,Shatabdi Express,Raipur,Bhopal,2026-04-04,2026-03-24,3A,50,Male,2270,UPI,Waiting List,No
+BK043,P542,Vande Bharat,Nagpur,Delhi,2026-04-19,2026-04-08,CC,27,Female,2348,UPI,Confirmed,No
+BK044,P543,Garib Rath,Delhi,Mumbai,2026-05-02,2026-03-17,SL,60,Female,337,Credit Card,RAC,No
+BK045,P544,Duronto Express,Bilaspur,Delhi,2026-02-04,2025-12-26,CC,43,Female,1318,Debit Card,Confirmed,No
+BK046,P545,Rajdhani Express,Mumbai,Kolkata,2026-02-14,2026-01-20,2A,46,Female,1563,Debit Card,Confirmed,No
+BK047,P546,Vande Bharat,Mumbai,Mumbai,2026-12-02,2026-11-28,2A,39,Male,2256,Debit Card,RAC,No
+BK048,P547,Duronto Express,Raipur,Bhopal,2026-03-03,2026-01-07,2A,25,Male,1797,UPI,Confirmed,No
+BK049,P548,Shatabdi Express,Raipur,Kolkata,2026-12-26,2026-12-04,CC,26,Female,617,Debit Card,Confirmed,No
+BK050,P549,Vande Bharat,Bilaspur,Pune,2026-06-23,2026-05-02,3A,61,Female,2012,Debit Card,Confirmed,No
+BK051,P550,Shatabdi Express,Mumbai,Bhopal,2026-03-13,2026-01-13,3A,36,Female,962,UPI,Confirmed,No
+BK052,P551,Rajdhani Express,Raipur,Bhopal,2026-04-09,2026-02-23,2A,56,Male,2187,Credit Card,Waiting List,No
+BK053,P552,Shatabdi Express,Mumbai,Delhi,2026-12-18,2026-12-05,SL,45,Female,1418,UPI,RAC,No
+BK054,P553,Rajdhani Express,Bilaspur,Mumbai,2026-06-23,2026-05-18,CC,63,Female,1918,Cash,Confirmed,No
+BK055,P554,Duronto Express,Delhi,Bhopal,2026-12-01,2026-10-22,2A,39,Female,2093,Credit Card,Confirmed,No
+BK056,P555,Rajdhani Express,Delhi,Bhopal,2026-01-13,2025-12-23,2A,53,Male,2138,UPI,Confirmed,No
+BK057,P556,Shatabdi Express,Delhi,Delhi,2026-04-25,2026-03-28,CC,29,Female,2254,Credit Card,Confirmed,No
+BK058,P557,Duronto Express,Delhi,Pune,2026-04-14,2026-03-01,SL,64,Female,1375,UPI,Waiting List,No
+BK059,P558,Shatabdi Express,Mumbai,Delhi,2026-12-28,2026-12-15,3A,61,Female,2417,Debit Card,Waiting List,No
+BK060,P559,Garib Rath,Delhi,Pune,2026-02-20,2026-01-15,2A,57,Male,422,Debit Card,Waiting List,No
+BK061,P560,Vande Bharat,Raipur,Kolkata,2026-01-28,2025-12-06,CC,56,Female,1163,Debit Card,Confirmed,No
+BK062,P561,Shatabdi Express,Nagpur,Mumbai,2026-12-14,2026-10-27,3A,44,Male,1176,UPI,Waiting List,No
+BK063,P562,Garib Rath,Bilaspur,Kolkata,2026-06-27,2026-06-13,2A,43,Female,1661,Cash,Waiting List,No
+BK064,P563,Vande Bharat,Mumbai,Kolkata,2026-05-03,2026-04-04,SL,25,Female,561,Credit Card,Confirmed,No
+BK065,P564,Duronto Express,Bilaspur,Kolkata,2026-05-25,2026-05-23,2A,59,Female,838,Cash,Confirmed,No
+BK066,P565,Shatabdi Express,Raipur,Pune,2026-08-08,2026-07-10,SL,18,Male,1414,Cash,Confirmed,No
+BK067,P566,Garib Rath,Delhi,Mumbai,2026-12-10,2026-11-25,3A,31,Male,1519,Credit Card,Confirmed,No
+BK068,P567,Garib Rath,Nagpur,Pune,2026-08-24,2026-07-18,2A,48,Female,2206,Cash,RAC,No
+BK069,P568,Rajdhani Express,Nagpur,Kolkata,2026-08-07,2026-07-19,SL,60,Female,1428,Debit Card,RAC,No
+BK070,P569,Shatabdi Express,Raipur,Pune,2026-07-17,2026-05-26,2A,57,Female,659,Debit Card,Confirmed,No
+BK071,P570,Garib Rath,Mumbai,Mumbai,2026-11-17,2026-11-01,2A,22,Female,439,Credit Card,Confirmed,No
+BK072,P571,Garib Rath,Bilaspur,Delhi,2026-07-21,2026-05-24,SL,33,Female,582,UPI,Confirmed,No
+BK073,P572,Garib Rath,Bilaspur,Delhi,2026-09-11,2026-09-04,SL,22,Male,1758,UPI,Confirmed,No
+BK074,P573,Shatabdi Express,Raipur,Bhopal,2026-06-15,2026-05-09,CC,35,Male,2118,Debit Card,Confirmed,No
+BK075,P574,Duronto Express,Nagpur,Mumbai,2026-01-04,2025-11-05,3A,26,Female,1971,Credit Card,Waiting List,No
+BK076,P575,Duronto Express,Mumbai,Kolkata,2026-09-22,2026-08-29,2A,31,Female,1720,Credit Card,Confirmed,No
+BK077,P576,Rajdhani Express,Nagpur,Pune,2026-03-27,2026-03-24,2A,58,Female,1024,Debit Card,Confirmed,No
+BK078,P577,Garib Rath,Delhi,Bhopal,2026-05-24,2026-03-30,3A,50,Male,1682,UPI,Waiting List,No
+BK079,P578,Garib Rath,Delhi,Pune,2026-05-17,2026-04-29,2A,39,Male,2355,Credit Card,Confirmed,No
+BK080,P579,Garib Rath,Bilaspur,Kolkata,2026-10-14,2026-09-26,SL,19,Male,589,UPI,RAC,No
+BK081,P580,Shatabdi Express,Delhi,Bhopal,2026-03-16,2026-01-26,CC,19,Male,993,Cash,Confirmed,No
+BK082,P581,Duronto Express,Nagpur,Pune,2026-10-16,2026-08-25,2A,52,Male,807,Cash,Waiting List,No
+BK083,P582,Vande Bharat,Nagpur,Delhi,2026-02-21,2026-01-18,3A,54,Male,483,Credit Card,Waiting List,No
+BK084,P583,Shatabdi Express,Mumbai,Bhopal,2026-10-01,2026-08-13,SL,26,Female,1083,UPI,RAC,No
+BK085,P584,Rajdhani Express,Nagpur,Bhopal,2026-06-17,2026-05-14,3A,33,Female,2207,UPI,RAC,No
+BK086,P585,Garib Rath,Delhi,Pune,2026-06-23,2026-04-26,SL,32,Female,699,UPI,RAC,No
+BK087,P586,Garib Rath,Nagpur,Kolkata,2026-05-02,2026-04-12,3A,49,Female,1860,UPI,Waiting List,No
+BK088,P587,Shatabdi Express,Nagpur,Kolkata,2026-10-06,2026-09-28,SL,45,Male,2335,Cash,Confirmed,No
+BK089,P588,Garib Rath,Nagpur,Bhopal,2026-04-27,2026-04-13,3A,44,Female,1201,Credit Card,RAC,Yes
+BK090,P589,Shatabdi Express,Raipur,Delhi,2026-08-08,2026-07-28,2A,50,Female,1609,Cash,RAC,Yes
+BK091,P590,Rajdhani Express,Raipur,Mumbai,2026-04-22,2026-04-20,CC,61,Female,2076,Credit Card,RAC,Yes
+BK092,P591,Rajdhani Express,Nagpur,Pune,2026-08-18,2026-08-04,SL,28,Male,604,UPI,RAC,Yes
+BK093,P592,Vande Bharat,Mumbai,Delhi,2026-09-16,2026-09-11,SL,34,Female,2065,UPI,Confirmed,Yes
+BK094,P593,Duronto Express,Raipur,Delhi,2026-01-03,2025-12-31,SL,55,Female,1596,Cash,RAC,No
+BK095,P594,Vande Bharat,Mumbai,Pune,2026-07-14,2026-06-29,3A,31,Male,685,UPI,Confirmed,No
+BK096,P595,Duronto Express,Delhi,Mumbai,2026-06-08,2026-05-29,SL,48,Male,1044,Credit Card,Confirmed,No
+BK097,P596,Duronto Express,Delhi,Delhi,2026-05-21,2026-05-02,3A,63,Male,2430,Cash,Confirmed,No
+BK098,P597,Vande Bharat,Bilaspur,Pune,2026-10-07,2026-08-26,CC,65,Male,1632,Cash,RAC,No
+BK099,P598,Duronto Express,Delhi,Pune,2026-06-23,2026-06-10,SL,47,Male,2272,Credit Card,Waiting List,No
+BK100,P599,Rajdhani Express,Bilaspur,Pune,2026-05-27,2026-04-17,3A,54,Male,1285,Cash,Confirmed,No
+BK101,P600,Shatabdi Express,Delhi,Pune,2026-04-15,2026-04-08,3A,55,Female,1044,Debit Card,Waiting List,No
+BK102,P601,Rajdhani Express,Mumbai,Mumbai,2026-10-25,2026-09-14,CC,50,Male,1069,Debit Card,Waiting List,No
+BK103,P602,Garib Rath,Nagpur,Bhopal,2026-09-06,2026-07-28,3A,26,Female,2056,Debit Card,Waiting List,No
+BK104,P603,Duronto Express,Raipur,Delhi,2026-05-06,2026-04-12,3A,60,Female,2241,Cash,Confirmed,No
+BK105,P604,Garib Rath,Bilaspur,Pune,2026-12-22,2026-10-27,CC,41,Male,1047,Cash,Confirmed,No
+BK106,P605,Garib Rath,Delhi,Kolkata,2026-06-22,2026-06-07,2A,39,Male,914,Debit Card,Waiting List,No
+BK107,P606,Shatabdi Express,Raipur,Kolkata,2026-10-12,2026-09-02,3A,64,Male,2044,UPI,Waiting List,No
+BK108,P607,Shatabdi Express,Raipur,Kolkata,2026-08-22,2026-08-04,CC,32,Female,2304,Credit Card,RAC,No
+BK109,P608,Vande Bharat,Nagpur,Kolkata,2026-10-20,2026-10-14,3A,46,Male,1115,Debit Card,Confirmed,Yes
+BK110,P609,Rajdhani Express,Nagpur,Bhopal,2026-05-21,2026-05-05,SL,39,Male,1013,UPI,Confirmed,No
+BK111,P610,Garib Rath,Raipur,Bhopal,2026-06-09,2026-06-08,CC,45,Female,1356,UPI,Confirmed,No
+BK112,P611,Duronto Express,Mumbai,Bhopal,2026-03-24,2026-03-15,CC,52,Male,693,Credit Card,Confirmed,No
+BK113,P612,Shatabdi Express,Nagpur,Delhi,2026-12-11,2026-11-13,SL,25,Male,1491,Debit Card,Waiting List,No
+BK114,P613,Duronto Express,Mumbai,Delhi,2026-12-23,2026-12-08,3A,39,Female,1995,Credit Card,Confirmed,No
+BK115,P614,Garib Rath,Raipur,Mumbai,2026-03-05,2026-02-17,CC,24,Male,1926,Credit Card,Waiting List,Yes
+BK116,P615,Garib Rath,Raipur,Mumbai,2026-07-02,2026-05-17,SL,61,Female,1195,Cash,Confirmed,No
+BK117,P616,Rajdhani Express,Bilaspur,Kolkata,2026-09-21,2026-08-16,CC,62,Female,1635,Credit Card,RAC,No
+BK118,P617,Rajdhani Express,Raipur,Mumbai,2026-08-02,2026-06-16,SL,42,Female,1238,Credit Card,Confirmed,No
+BK119,P618,Duronto Express,Delhi,Kolkata,2026-02-09,2026-01-01,3A,23,Male,1711,Debit Card,RAC,Yes
+BK120,P619,Shatabdi Express,Bilaspur,Delhi,2026-10-23,2026-10-10,CC,52,Female,1380,Debit Card,RAC,Yes
+BK121,P620,Shatabdi Express,Delhi,Mumbai,2026-04-17,2026-03-21,3A,53,Female,2221,Cash,RAC,Yes
+BK122,P621,Garib Rath,Raipur,Mumbai,2026-07-24,2026-06-26,CC,42,Female,1885,Cash,RAC,No
+BK123,P622,Garib Rath,Bilaspur,Pune,2026-12-02,2026-11-09,CC,54,Female,1381,Debit Card,Waiting List,No
+BK124,P623,Garib Rath,Delhi,Bhopal,2026-09-10,2026-08-18,2A,54,Female,1050,Credit Card,Waiting List,No
+BK125,P624,Garib Rath,Raipur,Mumbai,2026-05-25,2026-05-12,CC,32,Female,1674,Debit Card,Waiting List,No
+BK126,P625,Shatabdi Express,Delhi,Kolkata,2026-09-05,2026-08-18,3A,48,Male,558,UPI,Waiting List,No
+BK127,P626,Vande Bharat,Bilaspur,Delhi,2026-07-17,2026-07-02,3A,56,Female,466,Cash,RAC,No
+BK128,P627,Vande Bharat,Delhi,Delhi,2026-05-11,2026-04-02,SL,60,Female,1445,Debit Card,Confirmed,No
+BK129,P628,Shatabdi Express,Bilaspur,Pune,2026-09-19,2026-09-13,SL,49,Male,310,UPI,Waiting List,No
+BK130,P629,Vande Bharat,Delhi,Mumbai,2026-11-21,2026-10-12,2A,58,Female,2250,Cash,RAC,No
+BK131,P630,Rajdhani Express,Nagpur,Mumbai,2026-09-15,2026-08-10,SL,52,Female,1887,Debit Card,Confirmed,No
+BK132,P631,Duronto Express,Raipur,Delhi,2026-06-12,2026-04-22,3A,20,Male,1638,UPI,Waiting List,No
+BK133,P632,Vande Bharat,Bilaspur,Mumbai,2026-03-20,2026-02-17,3A,38,Male,789,UPI,Confirmed,No
+BK134,P633,Garib Rath,Delhi,Delhi,2026-05-27,2026-03-30,3A,24,Female,715,Debit Card,Confirmed,No
+BK135,P634,Garib Rath,Bilaspur,Mumbai,2026-12-25,2026-12-05,CC,46,Male,362,Cash,Waiting List,No
+BK136,P635,Garib Rath,Nagpur,Bhopal,2026-12-06,2026-10-07,CC,64,Male,2007,Cash,RAC,No
+BK137,P636,Shatabdi Express,Mumbai,Mumbai,2026-06-05,2026-05-02,CC,21,Female,1343,Credit Card,Waiting List,No
+BK138,P637,Vande Bharat,Delhi,Kolkata,2026-02-24,2026-01-01,3A,53,Female,534,Cash,Waiting List,No
+BK139,P638,Garib Rath,Mumbai,Pune,2026-08-18,2026-07-30,3A,18,Male,357,UPI,RAC,No
+BK140,P639,Vande Bharat,Raipur,Bhopal,2026-01-08,2025-11-14,CC,49,Male,1519,UPI,Waiting List,No
+BK141,P640,Rajdhani Express,Raipur,Mumbai,2026-08-24,2026-07-10,3A,49,Male,1331,UPI,Confirmed,No
+BK142,P641,Garib Rath,Mumbai,Kolkata,2026-08-07,2026-07-20,2A,18,Female,1560,Cash,RAC,No
+BK143,P642,Garib Rath,Mumbai,Delhi,2026-08-15,2026-07-15,3A,37,Male,445,Credit Card,Confirmed,No
+BK144,P643,Duronto Express,Nagpur,Bhopal,2026-05-23,2026-05-19,SL,44,Female,566,Debit Card,RAC,No
+BK145,P644,Duronto Express,Nagpur,Pune,2026-04-23,2026-03-29,CC,53,Female,614,Cash,Waiting List,No
+BK146,P645,Vande Bharat,Delhi,Bhopal,2026-03-27,2026-03-10,2A,45,Male,654,Credit Card,Waiting List,No
+BK147,P646,Shatabdi Express,Delhi,Pune,2026-11-07,2026-11-01,CC,22,Male,1456,Credit Card,RAC,No
+BK148,P647,Garib Rath,Nagpur,Pune,2026-07-01,2026-06-14,3A,33,Female,2170,Debit Card,Confirmed,No
+BK149,P648,Shatabdi Express,Bilaspur,Mumbai,2026-02-27,2026-01-30,CC,52,Male,309,Debit Card,Confirmed,No
+BK150,P649,Duronto Express,Nagpur,Delhi,2026-08-06,2026-07-27,3A,60,Male,398,Cash,Confirmed,No
+BK151,P650,Garib Rath,Bilaspur,Delhi,2026-05-23,2026-05-05,3A,54,Female,1841,Cash,Confirmed,No
+BK152,P651,Shatabdi Express,Nagpur,Delhi,2026-04-03,2026-03-14,3A,25,Male,2384,Credit Card,Waiting List,No
+BK153,P652,Rajdhani Express,Delhi,Bhopal,2026-12-17,2026-10-18,CC,50,Female,2154,Cash,Confirmed,No
+BK154,P653,Garib Rath,Bilaspur,Bhopal,2026-06-21,2026-04-25,2A,59,Female,2101,Credit Card,Confirmed,No
+BK155,P654,Vande Bharat,Delhi,Mumbai,2026-02-06,2025-12-20,3A,18,Female,1491,Cash,Waiting List,No
+BK156,P655,Shatabdi Express,Mumbai,Kolkata,2026-06-12,2026-05-08,SL,37,Female,2350,Cash,Confirmed,No
+BK157,P656,Duronto Express,Mumbai,Delhi,2026-05-23,2026-03-31,3A,56,Male,538,Debit Card,Waiting List,No
+BK158,P657,Duronto Express,Delhi,Mumbai,2026-02-22,2025-12-24,CC,43,Female,2474,Cash,Waiting List,Yes
+BK159,P658,Duronto Express,Bilaspur,Delhi,2026-08-03,2026-06-22,3A,60,Female,1754,Credit Card,Confirmed,No
+BK160,P659,Garib Rath,Nagpur,Bhopal,2026-06-13,2026-05-28,CC,39,Male,1296,UPI,Confirmed,No
+BK161,P660,Vande Bharat,Raipur,Bhopal,2026-11-25,2026-10-16,SL,30,Female,479,UPI,Confirmed,No
+BK162,P661,Shatabdi Express,Delhi,Delhi,2026-06-02,2026-05-24,CC,65,Female,343,UPI,RAC,No
+BK163,P662,Shatabdi Express,Mumbai,Delhi,2026-10-06,2026-08-30,SL,60,Female,651,UPI,Confirmed,No
+BK164,P663,Rajdhani Express,Delhi,Mumbai,2026-02-11,2026-01-11,3A,30,Male,2125,Debit Card,Confirmed,No
+BK165,P664,Rajdhani Express,Delhi,Pune,2026-02-25,2026-02-05,SL,29,Female,1383,Cash,Confirmed,No
+BK166,P665,Garib Rath,Bilaspur,Kolkata,2026-01-09,2025-11-20,2A,61,Male,1882,UPI,Waiting List,No
+BK167,P666,Duronto Express,Raipur,Bhopal,2026-06-24,2026-05-20,3A,46,Female,954,UPI,RAC,No
+BK168,P667,Garib Rath,Nagpur,Bhopal,2026-01-21,2026-01-16,2A,54,Female,516,Debit Card,Confirmed,Yes
+BK169,P668,Vande Bharat,Raipur,Kolkata,2026-06-20,2026-06-10,CC,61,Female,1370,Debit Card,Confirmed,Yes
+BK170,P669,Garib Rath,Bilaspur,Delhi,2026-03-08,2026-02-23,CC,38,Female,371,Cash,RAC,Yes
+BK171,P670,Shatabdi Express,Raipur,Mumbai,2026-08-28,2026-08-15,CC,52,Male,2003,UPI,Confirmed,Yes
+BK172,P671,Garib Rath,Delhi,Pune,2026-12-17,2026-11-30,CC,56,Female,1017,Debit Card,RAC,No
+BK173,P672,Vande Bharat,Bilaspur,Mumbai,2026-02-12,2025-12-27,SL,34,Female,1403,Cash,Waiting List,No
+BK174,P673,Vande Bharat,Nagpur,Bhopal,2026-02-16,2026-01-15,CC,28,Female,2039,Cash,RAC,No
+BK175,P674,Garib Rath,Raipur,Delhi,2026-03-04,2026-01-11,2A,27,Male,2366,UPI,Confirmed,No
+BK176,P675,Duronto Express,Nagpur,Kolkata,2026-07-27,2026-06-23,2A,58,Male,320,UPI,Waiting List,No
+BK177,P676,Duronto Express,Delhi,Mumbai,2026-02-26,2026-01-02,CC,58,Female,2230,UPI,Waiting List,No
+BK178,P677,Garib Rath,Bilaspur,Delhi,2026-07-23,2026-06-23,2A,24,Female,482,Cash,RAC,No
+BK179,P678,Vande Bharat,Bilaspur,Mumbai,2026-10-01,2026-08-11,3A,21,Male,627,Cash,Confirmed,No
+BK180,P679,Vande Bharat,Delhi,Mumbai,2026-12-27,2026-11-07,2A,39,Female,2275,UPI,Confirmed,No
+BK181,P680,Shatabdi Express,Bilaspur,Mumbai,2026-05-13,2026-03-19,CC,62,Male,1770,Cash,Confirmed,No
+BK182,P681,Rajdhani Express,Nagpur,Kolkata,2026-05-25,2026-04-15,2A,58,Female,653,UPI,Confirmed,No
+BK183,P682,Vande Bharat,Bilaspur,Kolkata,2026-03-28,2026-02-27,3A,47,Female,1139,Cash,Confirmed,No
+BK184,P683,Rajdhani Express,Raipur,Bhopal,2026-07-15,2026-06-12,2A,33,Female,2081,Credit Card,Confirmed,No
+BK185,P684,Rajdhani Express,Bilaspur,Pune,2026-03-27,2026-03-08,3A,41,Male,2221,UPI,RAC,No
+BK186,P685,Garib Rath,Delhi,Mumbai,2026-04-01,2026-02-09,3A,24,Female,1013,Debit Card,Confirmed,No
+BK187,P686,Vande Bharat,Raipur,Kolkata,2026-10-16,2026-09-12,2A,24,Female,686,Credit Card,RAC,No
+BK188,P687,Garib Rath,Delhi,Bhopal,2026-08-18,2026-08-01,3A,60,Male,324,Credit Card,Confirmed,No
+BK189,P688,Vande Bharat,Delhi,Bhopal,2026-08-05,2026-07-21,3A,36,Female,2424,Debit Card,Confirmed,No
+BK190,P689,Shatabdi Express,Delhi,Pune,2026-09-05,2026-08-15,3A,64,Female,1157,Debit Card,Waiting List,No
+BK191,P690,Shatabdi Express,Nagpur,Kolkata,2026-11-24,2026-10-30,SL,22,Male,1979,UPI,Confirmed,No
+BK192,P691,Garib Rath,Mumbai,Pune,2026-05-03,2026-04-13,SL,32,Male,2216,Debit Card,Confirmed,No
+BK193,P692,Garib Rath,Delhi,Pune,2026-10-28,2026-09-02,3A,55,Female,2363,UPI,Confirmed,No
+BK194,P693,Vande Bharat,Delhi,Bhopal,2026-10-16,2026-09-07,SL,35,Female,1196,Credit Card,Waiting List,No
+BK195,P694,Vande Bharat,Delhi,Bhopal,2026-05-16,2026-05-04,SL,22,Male,2248,Debit Card,RAC,No
+BK196,P695,Garib Rath,Bilaspur,Mumbai,2026-09-01,2026-07-03,CC,18,Female,2402,Debit Card,Waiting List,No
+BK197,P696,Garib Rath,Delhi,Pune,2026-12-22,2026-10-29,SL,25,Male,2320,Credit Card,Waiting List,Yes
+BK198,P697,Vande Bharat,Bilaspur,Bhopal,2026-07-07,2026-06-04,2A,57,Male,1939,Cash,Waiting List,No
+BK199,P698,Vande Bharat,Nagpur,Pune,2026-03-07,2026-02-20,SL,31,Male,806,Credit Card,Confirmed,No
+BK200,P699,Shatabdi Express,Delhi,Mumbai,2026-09-26,2026-08-07,SL,20,Male,1105,Credit Card,Waiting List,No
+BK201,P700,Vande Bharat,Nagpur,Kolkata,2026-05-12,2026-04-21,2A,37,Female,413,Cash,Confirmed,No
+BK202,P701,Garib Rath,Mumbai,Pune,2026-12-05,2026-10-21,SL,61,Male,1356,Cash,RAC,No
+BK203,P702,Garib Rath,Nagpur,Bhopal,2026-03-11,2026-02-02,3A,29,Female,1917,Debit Card,Confirmed,No
+BK204,P703,Garib Rath,Delhi,Delhi,2026-03-14,2026-02-20,3A,59,Male,2148,UPI,RAC,No
+BK205,P704,Garib Rath,Nagpur,Delhi,2026-05-13,2026-04-10,CC,52,Male,607,Cash,RAC,No
+BK206,P705,Vande Bharat,Delhi,Kolkata,2026-09-02,2026-07-18,SL,46,Male,958,Cash,Confirmed,No
+BK207,P706,Duronto Express,Raipur,Mumbai,2026-12-14,2026-10-28,SL,22,Male,1238,Cash,Confirmed,No
+BK208,P707,Garib Rath,Raipur,Delhi,2026-02-21,2025-12-23,CC,60,Female,348,Debit Card,Confirmed,No
+BK209,P708,Duronto Express,Nagpur,Mumbai,2026-09-03,2026-07-25,CC,29,Male,1598,UPI,Confirmed,No
+BK210,P709,Duronto Express,Mumbai,Pune,2026-11-18,2026-10-28,3A,48,Female,1132,Debit Card,RAC,No
+BK211,P710,Rajdhani Express,Bilaspur,Bhopal,2026-02-21,2026-02-07,3A,65,Male,1863,Cash,Waiting List,No
+BK212,P711,Rajdhani Express,Raipur,Bhopal,2026-01-27,2025-12-19,SL,42,Male,625,Debit Card,Confirmed,No
+BK213,P712,Shatabdi Express,Mumbai,Delhi,2026-05-04,2026-04-09,2A,27,Female,315,UPI,Confirmed,No
+BK214,P713,Duronto Express,Raipur,Bhopal,2026-11-17,2026-10-08,3A,24,Female,2467,Credit Card,Confirmed,No
+BK215,P714,Vande Bharat,Delhi,Bhopal,2026-10-02,2026-09-29,2A,25,Male,633,Debit Card,Waiting List,No
+BK216,P715,Vande Bharat,Mumbai,Bhopal,2026-01-17,2025-12-17,SL,19,Male,1648,UPI,RAC,No
+BK217,P716,Duronto Express,Bilaspur,Pune,2026-12-02,2026-10-14,2A,34,Male,458,Credit Card,Waiting List,No
+BK218,P717,Rajdhani Express,Nagpur,Bhopal,2026-09-26,2026-08-12,CC,45,Male,865,Debit Card,RAC,No
+BK219,P718,Rajdhani Express,Delhi,Pune,2026-02-07,2026-01-02,3A,41,Male,1121,Credit Card,RAC,No
+BK220,P719,Rajdhani Express,Bilaspur,Kolkata,2026-07-18,2026-06-09,2A,26,Male,498,Credit Card,RAC,Yes
+BK221,P720,Rajdhani Express,Mumbai,Kolkata,2026-07-11,2026-05-16,3A,37,Male,2168,UPI,RAC,No
+BK222,P721,Rajdhani Express,Nagpur,Mumbai,2026-06-10,2026-04-12,2A,37,Male,1365,Cash,Confirmed,No
+BK223,P722,Vande Bharat,Delhi,Kolkata,2026-02-13,2026-01-05,SL,60,Male,999,Credit Card,Confirmed,No
+BK224,P723,Garib Rath,Bilaspur,Bhopal,2026-07-02,2026-05-10,3A,39,Female,1955,Credit Card,RAC,No
+BK225,P724,Garib Rath,Delhi,Mumbai,2026-11-03,2026-11-01,2A,30,Male,913,Debit Card,Confirmed,Yes
+BK226,P725,Garib Rath,Raipur,Mumbai,2026-12-19,2026-10-20,3A,24,Male,1083,UPI,Confirmed,No
+BK227,P726,Garib Rath,Delhi,Delhi,2026-02-11,2026-01-18,CC,26,Female,1441,Credit Card,Confirmed,No
+BK228,P727,Duronto Express,Raipur,Mumbai,2026-06-15,2026-05-27,CC,24,Female,1041,Credit Card,Waiting List,No
+BK229,P728,Rajdhani Express,Bilaspur,Delhi,2026-09-03,2026-08-07,SL,42,Female,449,Credit Card,Confirmed,No
+BK230,P729,Vande Bharat,Mumbai,Delhi,2026-05-03,2026-05-01,3A,32,Male,962,UPI,RAC,No
+BK231,P730,Shatabdi Express,Mumbai,Pune,2026-08-21,2026-07-05,2A,21,Female,957,Debit Card,Confirmed,No
+BK232,P731,Shatabdi Express,Mumbai,Mumbai,2026-12-02,2026-10-20,SL,31,Male,569,Credit Card,RAC,No
+BK233,P732,Rajdhani Express,Delhi,Bhopal,2026-11-07,2026-10-03,CC,22,Female,2036,UPI,Confirmed,No
+BK234,P733,Vande Bharat,Delhi,Bhopal,2026-01-23,2026-01-03,3A,25,Male,963,UPI,Confirmed,No
+BK235,P734,Rajdhani Express,Mumbai,Pune,2026-04-17,2026-04-12,SL,60,Female,1653,UPI,Confirmed,No
+BK236,P735,Rajdhani Express,Delhi,Delhi,2026-12-06,2026-12-03,2A,24,Male,338,Credit Card,Confirmed,No
+BK237,P736,Rajdhani Express,Delhi,Kolkata,2026-12-12,2026-11-23,SL,38,Female,1681,Debit Card,RAC,No
+BK238,P737,Garib Rath,Bilaspur,Delhi,2026-02-05,2026-01-27,2A,47,Female,2037,Cash,Confirmed,No
+BK239,P738,Vande Bharat,Delhi,Kolkata,2026-02-25,2026-01-01,2A,62,Male,484,Cash,Confirmed,No
+BK240,P739,Rajdhani Express,Raipur,Mumbai,2026-02-19,2026-02-02,3A,41,Male,2266,Credit Card,RAC,No
+BK241,P740,Garib Rath,Mumbai,Kolkata,2026-02-12,2025-12-26,2A,57,Male,1921,UPI,Confirmed,No
+BK242,P741,Rajdhani Express,Mumbai,Kolkata,2026-07-08,2026-05-12,SL,61,Female,988,Credit Card,Waiting List,No
+BK243,P742,Vande Bharat,Delhi,Pune,2026-06-21,2026-05-06,2A,28,Male,585,Debit Card,Waiting List,No
+BK244,P743,Garib Rath,Nagpur,Pune,2026-10-10,2026-09-28,SL,21,Male,1072,UPI,Waiting List,No
+BK245,P744,Duronto Express,Nagpur,Pune,2026-05-14,2026-04-24,CC,51,Female,662,Cash,RAC,No
+BK246,P745,Rajdhani Express,Nagpur,Delhi,2026-10-02,2026-08-03,CC,31,Male,2216,UPI,Confirmed,Yes
+BK247,P746,Shatabdi Express,Raipur,Delhi,2026-06-11,2026-05-24,3A,24,Male,1018,Debit Card,Waiting List,Yes
+BK248,P747,Vande Bharat,Raipur,Mumbai,2026-06-11,2026-04-28,2A,58,Male,1335,Debit Card,Confirmed,Yes
+BK249,P748,Shatabdi Express,Nagpur,Kolkata,2026-05-02,2026-03-04,2A,61,Female,1725,UPI,Waiting List,Yes
+BK250,P749,Duronto Express,Mumbai,Pune,2026-03-14,2026-02-02,SL,54,Female,1719,UPI,Confirmed,No
+BK251,P750,Garib Rath,Raipur,Delhi,2026-08-12,2026-08-05,2A,26,Female,2098,UPI,RAC,No
+BK252,P751,Shatabdi Express,Delhi,Delhi,2026-06-22,2026-06-11,3A,42,Male,1830,Debit Card,Waiting List,No
+BK253,P752,Shatabdi Express,Nagpur,Bhopal,2026-05-14,2026-03-26,CC,56,Female,2248,Cash,Confirmed,No
+BK254,P753,Duronto Express,Nagpur,Delhi,2026-08-09,2026-06-19,3A,37,Male,951,Credit Card,Waiting List,No
+BK255,P754,Garib Rath,Delhi,Pune,2026-07-26,2026-05-28,3A,60,Female,1926,Cash,Waiting List,No
+BK256,P755,Duronto Express,Nagpur,Kolkata,2026-06-20,2026-04-26,2A,54,Male,499,UPI,RAC,No
+BK257,P756,Rajdhani Express,Mumbai,Pune,2026-03-03,2026-01-06,2A,19,Female,941,Cash,Confirmed,No
+BK258,P757,Garib Rath,Mumbai,Pune,2026-04-17,2026-03-14,SL,19,Female,2465,Credit Card,Confirmed,No
+BK259,P758,Shatabdi Express,Nagpur,Mumbai,2026-01-19,2025-12-06,3A,65,Female,2047,Cash,Confirmed,No
+BK260,P759,Vande Bharat,Nagpur,Delhi,2026-12-09,2026-12-03,CC,32,Female,776,Credit Card,Confirmed,No
+BK261,P760,Duronto Express,Delhi,Bhopal,2026-10-28,2026-09-08,3A,25,Male,976,UPI,Confirmed,No
+BK262,P761,Garib Rath,Delhi,Mumbai,2026-10-19,2026-08-23,SL,23,Male,522,Credit Card,RAC,No
+BK263,P762,Garib Rath,Delhi,Bhopal,2026-03-03,2026-02-28,CC,48,Female,1832,Cash,Confirmed,No
+BK264,P763,Shatabdi Express,Bilaspur,Kolkata,2026-03-12,2026-03-04,SL,61,Female,2128,Credit Card,Confirmed,No
+BK265,P764,Garib Rath,Mumbai,Delhi,2026-02-22,2026-02-15,3A,38,Male,304,Credit Card,Waiting List,Yes
+BK266,P765,Shatabdi Express,Bilaspur,Bhopal,2026-05-06,2026-03-17,2A,20,Male,1414,Credit Card,Waiting List,No
+BK267,P766,Shatabdi Express,Nagpur,Pune,2026-01-20,2025-12-16,SL,63,Female,313,UPI,RAC,No
+BK268,P767,Shatabdi Express,Bilaspur,Pune,2026-01-18,2025-12-22,2A,20,Female,2452,Debit Card,Confirmed,No
+BK269,P768,Shatabdi Express,Mumbai,Delhi,2026-04-04,2026-03-02,2A,19,Male,1532,Debit Card,RAC,No
+BK270,P769,Vande Bharat,Bilaspur,Mumbai,2026-10-07,2026-09-20,2A,45,Female,1338,Cash,Confirmed,No
+BK271,P770,Duronto Express,Nagpur,Mumbai,2026-03-10,2026-01-22,CC,22,Female,1008,UPI,Confirmed,No
+BK272,P771,Vande Bharat,Nagpur,Pune,2026-06-14,2026-05-01,2A,31,Female,2494,Cash,Confirmed,No
+BK273,P772,Shatabdi Express,Nagpur,Bhopal,2026-02-07,2025-12-10,SL,45,Male,2469,Cash,RAC,No
+BK274,P773,Vande Bharat,Delhi,Pune,2026-11-20,2026-10-23,CC,59,Female,763,UPI,RAC,No
+BK275,P774,Garib Rath,Bilaspur,Mumbai,2026-03-04,2026-02-18,CC,58,Male,491,Cash,Waiting List,No
+BK276,P775,Rajdhani Express,Nagpur,Bhopal,2026-04-16,2026-03-31,CC,28,Female,481,UPI,RAC,No
+BK277,P776,Vande Bharat,Mumbai,Delhi,2026-09-15,2026-08-02,3A,26,Female,1539,Credit Card,RAC,No
+BK278,P777,Vande Bharat,Nagpur,Kolkata,2026-08-17,2026-08-03,SL,26,Male,888,UPI,Confirmed,No
+BK279,P778,Rajdhani Express,Nagpur,Bhopal,2026-09-08,2026-07-17,2A,28,Male,923,Cash,RAC,No
+BK280,P779,Garib Rath,Bilaspur,Kolkata,2026-05-19,2026-05-05,SL,28,Female,1837,Cash,RAC,No
+BK281,P780,Vande Bharat,Delhi,Mumbai,2026-10-27,2026-10-17,3A,20,Female,1953,Debit Card,RAC,No
+BK282,P781,Rajdhani Express,Mumbai,Pune,2026-04-05,2026-02-20,SL,57,Male,2083,Credit Card,Confirmed,No
+BK283,P782,Duronto Express,Raipur,Mumbai,2026-03-16,2026-03-11,SL,20,Female,1169,Debit Card,RAC,No
+BK284,P783,Vande Bharat,Raipur,Pune,2026-01-05,2025-12-22,SL,53,Male,2332,Debit Card,RAC,No
+BK285,P784,Rajdhani Express,Mumbai,Pune,2026-03-23,2026-02-23,2A,44,Male,1592,Cash,Confirmed,No
+BK286,P785,Garib Rath,Bilaspur,Bhopal,2026-10-08,2026-10-05,CC,60,Female,1690,Credit Card,RAC,No
+BK287,P786,Shatabdi Express,Nagpur,Bhopal,2026-09-10,2026-08-18,CC,36,Male,1111,Credit Card,Confirmed,No
+BK288,P787,Garib Rath,Nagpur,Mumbai,2026-01-21,2025-12-05,CC,34,Female,760,UPI,Confirmed,No
+BK289,P788,Duronto Express,Delhi,Bhopal,2026-04-27,2026-04-08,2A,27,Male,1720,UPI,RAC,No
+BK290,P789,Shatabdi Express,Nagpur,Bhopal,2026-11-25,2026-10-21,SL,35,Male,2094,Cash,Confirmed,No
+BK291,P790,Shatabdi Express,Raipur,Mumbai,2026-08-01,2026-07-28,SL,40,Female,2359,UPI,RAC,No
+BK292,P791,Rajdhani Express,Nagpur,Delhi,2026-09-07,2026-08-09,CC,42,Male,1037,UPI,Confirmed,No
+BK293,P792,Garib Rath,Nagpur,Mumbai,2026-07-25,2026-06-18,2A,24,Female,999,Credit Card,Waiting List,No
+BK294,P793,Duronto Express,Bilaspur,Pune,2026-02-14,2026-01-02,2A,38,Female,762,Credit Card,RAC,No
+BK295,P794,Rajdhani Express,Bilaspur,Bhopal,2026-06-28,2026-06-02,3A,34,Female,897,UPI,RAC,No
+BK296,P795,Duronto Express,Mumbai,Delhi,2026-06-13,2026-04-15,2A,45,Male,336,Debit Card,Waiting List,No
+BK297,P796,Vande Bharat,Bilaspur,Pune,2026-12-08,2026-11-20,2A,31,Female,1194,Cash,Confirmed,No
+BK298,P797,Shatabdi Express,Bilaspur,Bhopal,2026-05-24,2026-04-24,3A,59,Female,1357,Cash,Waiting List,No
+BK299,P798,Duronto Express,Delhi,Kolkata,2026-05-15,2026-04-13,CC,35,Female,717,Debit Card,Confirmed,No
+BK300,P799,Shatabdi Express,Nagpur,Pune,2026-01-08,2025-12-02,SL,21,Female,804,Debit Card,RAC,No
+BK301,P800,Shatabdi Express,Nagpur,Kolkata,2026-03-14,2026-03-11,3A,62,Male,1465,Credit Card,Confirmed,No
+BK302,P801,Vande Bharat,Bilaspur,Pune,2026-08-09,2026-07-23,SL,26,Female,1672,UPI,Confirmed,No
+BK303,P802,Vande Bharat,Bilaspur,Bhopal,2026-04-11,2026-03-25,CC,41,Female,1285,Credit Card,Confirmed,No
+BK304,P803,Rajdhani Express,Delhi,Delhi,2026-04-16,2026-03-23,CC,56,Female,2194,Credit Card,RAC,No
+BK305,P804,Rajdhani Express,Bilaspur,Mumbai,2026-09-14,2026-08-01,CC,20,Female,1667,Cash,RAC,No
+BK306,P805,Garib Rath,Delhi,Delhi,2026-11-02,2026-09-13,3A,40,Female,853,Debit Card,RAC,No
+BK307,P806,Duronto Express,Nagpur,Kolkata,2026-03-01,2026-02-17,3A,60,Female,535,Credit Card,Waiting List,No
+BK308,P807,Shatabdi Express,Bilaspur,Mumbai,2026-07-19,2026-06-01,3A,42,Female,648,Debit Card,RAC,No
+BK309,P808,Duronto Express,Nagpur,Pune,2026-10-13,2026-08-24,3A,19,Female,812,Cash,RAC,No
+BK310,P809,Garib Rath,Mumbai,Delhi,2026-07-14,2026-06-25,2A,52,Female,391,Cash,Confirmed,No
+BK311,P810,Garib Rath,Mumbai,Delhi,2026-12-24,2026-12-20,3A,21,Female,1227,Cash,Waiting List,No
+BK312,P811,Duronto Express,Bilaspur,Delhi,2026-11-20,2026-10-03,CC,26,Female,592,Debit Card,RAC,No
+BK313,P812,Duronto Express,Nagpur,Kolkata,2026-05-21,2026-04-12,SL,59,Female,1254,Cash,Waiting List,No
+BK314,P813,Garib Rath,Bilaspur,Kolkata,2026-02-26,2026-01-21,3A,22,Male,1997,Debit Card,Confirmed,No
+BK315,P814,Rajdhani Express,Mumbai,Mumbai,2026-02-10,2025-12-21,SL,27,Female,1719,Debit Card,Confirmed,No
+BK316,P815,Rajdhani Express,Delhi,Pune,2026-01-05,2025-12-14,CC,41,Female,877,UPI,Confirmed,No
+BK317,P816,Garib Rath,Delhi,Kolkata,2026-01-21,2025-12-16,CC,42,Female,2287,Debit Card,Confirmed,No
+BK318,P817,Rajdhani Express,Raipur,Bhopal,2026-07-28,2026-06-29,2A,53,Female,2486,Cash,Confirmed,No
+BK319,P818,Rajdhani Express,Delhi,Bhopal,2026-01-24,2025-12-19,3A,60,Male,1799,UPI,Confirmed,No
+BK320,P819,Duronto Express,Delhi,Pune,2026-02-08,2026-01-09,CC,42,Female,344,UPI,Waiting List,No
+BK321,P820,Duronto Express,Delhi,Bhopal,2026-06-05,2026-05-28,2A,64,Female,2266,Cash,RAC,No
+BK322,P821,Shatabdi Express,Bilaspur,Pune,2026-12-12,2026-10-28,SL,60,Male,1387,Credit Card,Confirmed,No
+BK323,P822,Duronto Express,Bilaspur,Mumbai,2026-07-08,2026-06-13,CC,22,Female,2308,UPI,Confirmed,No
+BK324,P823,Garib Rath,Nagpur,Delhi,2026-05-24,2026-05-01,2A,55,Male,326,Credit Card,RAC,No
+BK325,P824,Rajdhani Express,Raipur,Mumbai,2026-02-03,2025-12-11,3A,49,Female,2345,Cash,Confirmed,No
+BK326,P825,Vande Bharat,Raipur,Kolkata,2026-07-18,2026-06-30,3A,39,Male,789,Debit Card,RAC,No
+BK327,P826,Duronto Express,Mumbai,Delhi,2026-04-17,2026-03-12,SL,53,Female,1784,Debit Card,Waiting List,No
+BK328,P827,Vande Bharat,Bilaspur,Delhi,2026-10-01,2026-09-05,2A,43,Male,636,Debit Card,Waiting List,No
+BK329,P828,Garib Rath,Delhi,Bhopal,2026-03-17,2026-02-03,CC,30,Male,1405,Credit Card,Confirmed,No
+BK330,P829,Vande Bharat,Delhi,Pune,2026-03-21,2026-02-18,2A,58,Female,1597,Cash,Confirmed,No
+BK331,P830,Duronto Express,Bilaspur,Mumbai,2026-01-02,2025-11-25,2A,32,Female,1348,Cash,Confirmed,No
+BK332,P831,Vande Bharat,Nagpur,Pune,2026-03-14,2026-02-04,2A,39,Female,2239,Cash,Confirmed,No
+BK333,P832,Garib Rath,Bilaspur,Bhopal,2026-05-01,2026-04-09,3A,38,Female,1131,Cash,Waiting List,No
+BK334,P833,Garib Rath,Bilaspur,Pune,2026-12-14,2026-11-03,SL,33,Male,2362,Credit Card,Confirmed,No
+BK335,P834,Garib Rath,Bilaspur,Mumbai,2026-10-22,2026-10-12,CC,60,Male,1781,UPI,Confirmed,No
+BK336,P835,Shatabdi Express,Delhi,Bhopal,2026-10-05,2026-09-22,2A,35,Male,1668,Cash,Confirmed,No
+BK337,P836,Vande Bharat,Raipur,Delhi,2026-03-13,2026-03-06,2A,18,Female,464,Debit Card,Waiting List,No
+BK338,P837,Vande Bharat,Mumbai,Delhi,2026-09-13,2026-09-10,3A,59,Male,2189,Cash,Confirmed,No
+BK339,P838,Garib Rath,Mumbai,Delhi,2026-08-14,2026-08-06,SL,62,Female,590,Cash,Confirmed,No
+BK340,P839,Shatabdi Express,Bilaspur,Mumbai,2026-09-11,2026-08-03,3A,55,Male,1649,Credit Card,Confirmed,No
+BK341,P840,Rajdhani Express,Nagpur,Mumbai,2026-10-06,2026-09-17,SL,51,Male,592,Debit Card,Confirmed,No
+BK342,P841,Vande Bharat,Bilaspur,Delhi,2026-11-15,2026-10-23,3A,36,Female,1946,Cash,Waiting List,No
+BK343,P842,Garib Rath,Bilaspur,Mumbai,2026-02-19,2026-01-18,CC,20,Male,317,Cash,Confirmed,No
+BK344,P843,Shatabdi Express,Bilaspur,Mumbai,2026-02-03,2026-01-05,SL,43,Female,2332,UPI,Confirmed,No
+BK345,P844,Duronto Express,Nagpur,Mumbai,2026-04-05,2026-03-04,3A,26,Female,1584,UPI,RAC,No
+BK346,P845,Garib Rath,Delhi,Kolkata,2026-05-10,2026-04-16,SL,45,Male,2202,Debit Card,Confirmed,No
+BK347,P846,Vande Bharat,Nagpur,Delhi,2026-05-11,2026-04-25,3A,57,Female,2177,Debit Card,Confirmed,No
+BK348,P847,Shatabdi Express,Delhi,Kolkata,2026-08-17,2026-08-07,3A,49,Male,523,Debit Card,Confirmed,No
+BK349,P848,Rajdhani Express,Delhi,Kolkata,2026-12-09,2026-11-23,2A,22,Male,356,Credit Card,RAC,No
+BK350,P849,Rajdhani Express,Nagpur,Kolkata,2026-12-23,2026-10-29,2A,25,Male,1093,Debit Card,RAC,No
+BK351,P850,Vande Bharat,Delhi,Mumbai,2026-05-04,2026-03-22,2A,38,Female,1553,Cash,Waiting List,No
+BK352,P851,Rajdhani Express,Delhi,Mumbai,2026-03-20,2026-02-21,2A,53,Male,2129,Credit Card,Confirmed,No
+BK353,P852,Duronto Express,Delhi,Bhopal,2026-01-20,2026-01-15,CC,21,Female,2298,Debit Card,Confirmed,No
+BK354,P853,Duronto Express,Bilaspur,Pune,2026-01-17,2025-12-30,3A,35,Female,1304,UPI,Confirmed,No
+BK355,P854,Garib Rath,Delhi,Bhopal,2026-10-19,2026-10-14,3A,45,Female,1399,Debit Card,Confirmed,No
+BK356,P855,Vande Bharat,Mumbai,Mumbai,2026-10-22,2026-09-10,2A,65,Female,507,Cash,Confirmed,No
+BK357,P856,Rajdhani Express,Nagpur,Kolkata,2026-07-25,2026-06-01,SL,29,Male,600,Credit Card,RAC,No
+BK358,P857,Vande Bharat,Mumbai,Mumbai,2026-06-28,2026-05-26,2A,24,Male,2013,Credit Card,Waiting List,No
+BK359,P858,Rajdhani Express,Delhi,Mumbai,2026-01-03,2025-12-03,3A,59,Female,1918,UPI,RAC,No
+BK360,P859,Shatabdi Express,Raipur,Bhopal,2026-07-26,2026-06-29,3A,47,Male,513,Cash,Confirmed,No
+BK361,P860,Duronto Express,Nagpur,Kolkata,2026-02-23,2026-01-26,2A,36,Female,2302,Debit Card,Confirmed,No
+BK362,P861,Duronto Express,Raipur,Pune,2026-08-21,2026-06-22,3A,53,Female,1143,Debit Card,Confirmed,No
+BK363,P862,Shatabdi Express,Bilaspur,Bhopal,2026-01-22,2025-11-29,2A,18,Male,937,Debit Card,Confirmed,No
+BK364,P863,Duronto Express,Raipur,Kolkata,2026-10-28,2026-09-04,SL,48,Male,1548,Cash,Waiting List,No
+BK365,P864,Vande Bharat,Delhi,Mumbai,2026-08-14,2026-06-22,CC,58,Female,623,Credit Card,Confirmed,No
+BK366,P865,Shatabdi Express,Delhi,Bhopal,2026-07-16,2026-06-30,CC,22,Male,1537,Debit Card,RAC,No
+BK367,P866,Shatabdi Express,Mumbai,Pune,2026-12-08,2026-11-16,SL,21,Female,1124,Credit Card,Waiting List,No
+BK368,P867,Duronto Express,Delhi,Pune,2026-04-04,2026-03-10,CC,62,Male,1901,Debit Card,RAC,No
+BK369,P868,Rajdhani Express,Mumbai,Delhi,2026-03-22,2026-02-22,CC,44,Male,2184,Debit Card,RAC,No
+BK370,P869,Duronto Express,Nagpur,Bhopal,2026-07-02,2026-06-26,CC,29,Male,1130,Debit Card,Confirmed,No
+BK371,P870,Garib Rath,Delhi,Kolkata,2026-12-19,2026-11-25,2A,22,Male,1077,Debit Card,Confirmed,No
+BK372,P871,Shatabdi Express,Raipur,Mumbai,2026-01-17,2025-12-07,3A,43,Female,2214,Cash,Waiting List,No
+BK373,P872,Vande Bharat,Bilaspur,Bhopal,2026-02-27,2026-01-13,CC,58,Male,836,UPI,RAC,No
+BK374,P873,Duronto Express,Delhi,Bhopal,2026-03-01,2026-01-27,2A,18,Female,767,Cash,Confirmed,No
+BK375,P874,Garib Rath,Nagpur,Mumbai,2026-04-04,2026-02-08,CC,62,Male,719,Credit Card,Confirmed,No
+BK376,P875,Vande Bharat,Raipur,Delhi,2026-11-12,2026-11-01,3A,22,Female,1677,Cash,Waiting List,No
+BK377,P876,Garib Rath,Bilaspur,Pune,2026-03-03,2026-02-21,SL,47,Female,2168,Credit Card,Waiting List,No
+BK378,P877,Shatabdi Express,Mumbai,Pune,2026-12-19,2026-12-13,3A,41,Female,695,Debit Card,Confirmed,No
+BK379,P878,Garib Rath,Nagpur,Delhi,2026-12-24,2026-12-16,3A,65,Female,1904,UPI,Confirmed,No
+BK380,P879,Garib Rath,Bilaspur,Delhi,2026-01-13,2025-12-10,CC,46,Female,1392,UPI,RAC,No
+BK381,P880,Duronto Express,Nagpur,Pune,2026-01-20,2026-01-14,CC,35,Female,1181,UPI,Confirmed,No
+BK382,P881,Duronto Express,Nagpur,Bhopal,2026-07-26,2026-07-20,SL,18,Male,1534,Cash,Waiting List,No
+BK383,P882,Garib Rath,Mumbai,Pune,2026-12-24,2026-11-14,CC,44,Male,2050,Credit Card,RAC,No
+BK384,P883,Duronto Express,Delhi,Delhi,2026-03-05,2026-02-15,SL,42,Male,1369,Credit Card,Waiting List,No
+BK385,P884,Rajdhani Express,Nagpur,Bhopal,2026-12-24,2026-11-19,CC,52,Male,1996,Credit Card,Waiting List,No
+BK386,P885,Shatabdi Express,Mumbai,Pune,2026-01-28,2026-01-10,3A,24,Female,1591,Cash,RAC,No
+BK387,P886,Garib Rath,Delhi,Mumbai,2026-08-16,2026-06-20,SL,65,Male,1215,Credit Card,RAC,No
+BK388,P887,Vande Bharat,Mumbai,Mumbai,2026-11-05,2026-10-17,3A,34,Female,1470,UPI,Confirmed,No
+BK389,P888,Duronto Express,Raipur,Pune,2026-02-27,2026-01-10,CC,53,Male,935,Debit Card,Confirmed,No
+BK390,P889,Vande Bharat,Raipur,Bhopal,2026-04-20,2026-03-10,3A,55,Male,1638,Credit Card,RAC,No
+BK391,P890,Rajdhani Express,Mumbai,Delhi,2026-01-22,2025-12-18,3A,26,Male,1304,Credit Card,Waiting List,No
+BK392,P891,Duronto Express,Bilaspur,Bhopal,2026-01-09,2025-11-10,2A,26,Female,1739,Debit Card,Waiting List,No
+BK393,P892,Vande Bharat,Mumbai,Pune,2026-10-18,2026-10-17,CC,21,Female,954,Debit Card,RAC,No
+BK394,P893,Shatabdi Express,Raipur,Kolkata,2026-08-03,2026-07-13,2A,21,Female,1336,Cash,RAC,No
+BK395,P894,Garib Rath,Mumbai,Delhi,2026-02-28,2026-01-19,SL,32,Male,1728,Credit Card,Confirmed,No
+BK396,P895,Rajdhani Express,Bilaspur,Kolkata,2026-06-24,2026-06-02,3A,34,Male,1815,Credit Card,Confirmed,No
+BK397,P896,Rajdhani Express,Nagpur,Delhi,2026-01-22,2026-01-14,SL,29,Female,1434,UPI,Confirmed,No
+BK398,P897,Duronto Express,Bilaspur,Delhi,2026-10-04,2026-08-07,CC,59,Female,493,UPI,Confirmed,No
+BK399,P898,Vande Bharat,Mumbai,Mumbai,2026-01-22,2026-01-21,2A,43,Female,665,Debit Card,Confirmed,No
+BK400,P899,Vande Bharat,Delhi,Bhopal,2026-09-11,2026-09-04,SL,45,Male,951,UPI,Waiting List,No
+BK401,P900,Rajdhani Express,Mumbai,Bhopal,2026-03-25,2026-02-23,3A,46,Male,2224,UPI,RAC,No
+BK402,P901,Vande Bharat,Delhi,Mumbai,2026-06-08,2026-05-26,SL,22,Female,884,Cash,Confirmed,No
+BK403,P902,Duronto Express,Mumbai,Kolkata,2026-03-12,2026-03-04,CC,64,Female,2432,UPI,Waiting List,No
+BK404,P903,Shatabdi Express,Nagpur,Mumbai,2026-09-20,2026-08-19,SL,54,Male,684,UPI,Confirmed,No
+BK405,P904,Garib Rath,Nagpur,Kolkata,2026-02-02,2026-01-18,SL,42,Female,1131,Cash,Confirmed,No
+BK406,P905,Rajdhani Express,Bilaspur,Kolkata,2026-06-04,2026-05-18,3A,19,Male,1469,Debit Card,RAC,No
+BK407,P906,Vande Bharat,Mumbai,Pune,2026-10-21,2026-10-15,2A,58,Female,1761,Debit Card,Confirmed,No
+BK408,P907,Vande Bharat,Nagpur,Mumbai,2026-04-12,2026-04-05,3A,50,Male,1176,UPI,Waiting List,No
+BK409,P908,Duronto Express,Mumbai,Bhopal,2026-03-14,2026-02-14,SL,42,Female,1137,Cash,Confirmed,No
+BK410,P909,Duronto Express,Raipur,Mumbai,2026-02-18,2026-01-06,SL,36,Female,1151,UPI,Waiting List,No
+BK411,P910,Rajdhani Express,Bilaspur,Mumbai,2026-02-10,2025-12-12,SL,40,Male,2363,Debit Card,Confirmed,No
+BK412,P911,Vande Bharat,Bilaspur,Kolkata,2026-10-22,2026-10-01,3A,57,Male,2041,UPI,Confirmed,No
+BK413,P912,Duronto Express,Bilaspur,Bhopal,2026-03-13,2026-03-01,SL,50,Female,828,Debit Card,Confirmed,No
+BK414,P913,Rajdhani Express,Raipur,Mumbai,2026-09-13,2026-08-12,2A,53,Female,1702,Credit Card,Waiting List,No
+BK415,P914,Vande Bharat,Nagpur,Mumbai,2026-01-07,2025-12-17,3A,54,Female,366,Credit Card,Confirmed,No
+BK416,P915,Garib Rath,Delhi,Bhopal,2026-03-24,2026-03-10,2A,48,Male,1271,Debit Card,Waiting List,No
+BK417,P916,Vande Bharat,Delhi,Mumbai,2026-11-04,2026-09-29,CC,57,Female,1382,Debit Card,Waiting List,No
+BK418,P917,Shatabdi Express,Mumbai,Delhi,2026-04-27,2026-04-25,3A,39,Female,1476,Credit Card,Confirmed,No
+BK419,P918,Duronto Express,Mumbai,Pune,2026-06-27,2026-05-22,CC,34,Female,687,UPI,Confirmed,No
+BK420,P919,Vande Bharat,Delhi,Mumbai,2026-08-25,2026-08-24,CC,45,Female,1188,UPI,Waiting List,No
+BK421,P920,Rajdhani Express,Delhi,Kolkata,2026-03-22,2026-01-31,3A,56,Female,2107,UPI,Waiting List,No
+BK422,P921,Shatabdi Express,Nagpur,Mumbai,2026-05-01,2026-04-01,SL,50,Male,2335,Debit Card,Waiting List,No
+BK423,P922,Garib Rath,Delhi,Delhi,2026-06-06,2026-05-11,2A,40,Male,605,Cash,Waiting List,No
+BK424,P923,Shatabdi Express,Mumbai,Delhi,2026-06-15,2026-06-01,2A,65,Male,1802,Debit Card,RAC,No
+BK425,P924,Rajdhani Express,Bilaspur,Pune,2026-12-16,2026-11-20,2A,19,Female,346,Credit Card,Confirmed,No
+BK426,P925,Shatabdi Express,Nagpur,Delhi,2026-11-21,2026-10-28,CC,62,Male,1853,Cash,RAC,No
+BK427,P926,Rajdhani Express,Delhi,Delhi,2026-08-02,2026-07-11,CC,61,Female,423,UPI,RAC,No
+BK428,P927,Garib Rath,Raipur,Mumbai,2026-07-05,2026-07-03,2A,54,Male,2070,Cash,Confirmed,No
+BK429,P928,Vande Bharat,Mumbai,Bhopal,2026-02-08,2026-01-24,SL,56,Female,2047,UPI,RAC,No
+BK430,P929,Duronto Express,Mumbai,Kolkata,2026-06-06,2026-04-26,3A,40,Male,1043,Credit Card,Confirmed,No
+BK431,P930,Vande Bharat,Delhi,Mumbai,2026-12-22,2026-12-02,3A,23,Male,1262,Credit Card,Confirmed,No
+BK432,P931,Garib Rath,Mumbai,Kolkata,2026-10-06,2026-08-19,CC,32,Female,450,Credit Card,Confirmed,No
+BK433,P932,Garib Rath,Delhi,Delhi,2026-09-02,2026-08-08,2A,30,Female,899,Cash,Waiting List,No
+BK434,P933,Vande Bharat,Raipur,Delhi,2026-08-04,2026-07-05,3A,61,Female,1745,UPI,Confirmed,No
+BK435,P934,Duronto Express,Delhi,Pune,2026-10-25,2026-10-03,2A,31,Male,842,Cash,Waiting List,No
+BK436,P935,Duronto Express,Raipur,Pune,2026-05-09,2026-04-26,3A,62,Male,1411,UPI,Confirmed,No
+BK437,P936,Shatabdi Express,Delhi,Kolkata,2026-07-21,2026-06-14,3A,61,Female,2239,UPI,Waiting List,No
+BK438,P937,Vande Bharat,Delhi,Kolkata,2026-07-15,2026-06-02,SL,44,Male,1776,Cash,Confirmed,No
+BK439,P938,Shatabdi Express,Delhi,Mumbai,2026-06-21,2026-04-23,3A,27,Male,1412,Cash,Confirmed,No
+BK440,P939,Rajdhani Express,Raipur,Delhi,2026-06-24,2026-06-04,CC,20,Male,2343,Debit Card,RAC,No
+BK441,P940,Duronto Express,Bilaspur,Pune,2026-09-06,2026-08-05,SL,56,Female,571,Debit Card,RAC,No
+BK442,P941,Garib Rath,Nagpur,Delhi,2026-06-02,2026-05-21,CC,65,Female,963,UPI,RAC,No
+BK443,P942,Garib Rath,Mumbai,Mumbai,2026-11-28,2026-11-11,SL,34,Female,597,UPI,Confirmed,No
+BK444,P943,Duronto Express,Raipur,Bhopal,2026-08-20,2026-07-28,2A,61,Male,614,UPI,Waiting List,No
+BK445,P944,Duronto Express,Raipur,Mumbai,2026-12-27,2026-11-29,3A,53,Female,701,Debit Card,Confirmed,No
+BK446,P945,Garib Rath,Bilaspur,Pune,2026-10-15,2026-08-25,3A,54,Male,861,Debit Card,Waiting List,No
+BK447,P946,Shatabdi Express,Mumbai,Bhopal,2026-08-16,2026-06-26,SL,64,Female,875,UPI,Waiting List,No
+BK448,P947,Rajdhani Express,Delhi,Delhi,2026-07-26,2026-06-21,3A,28,Female,766,Cash,RAC,No
+BK449,P948,Duronto Express,Bilaspur,Kolkata,2026-06-03,2026-04-04,2A,31,Male,2336,Cash,Confirmed,No
+BK450,P949,Garib Rath,Mumbai,Mumbai,2026-11-22,2026-11-03,3A,59,Male,2147,Credit Card,Waiting List,No
+BK451,P950,Vande Bharat,Mumbai,Mumbai,2026-01-25,2026-01-19,SL,63,Female,1319,Credit Card,RAC,No
+BK452,P951,Rajdhani Express,Raipur,Bhopal,2026-02-21,2026-01-14,3A,26,Male,2204,Credit Card,Confirmed,No
+BK453,P952,Garib Rath,Raipur,Kolkata,2026-09-10,2026-08-12,3A,29,Female,733,Cash,Confirmed,No
+BK454,P953,Vande Bharat,Delhi,Bhopal,2026-06-12,2026-04-21,SL,43,Male,1028,Cash,Waiting List,No
+BK455,P954,Vande Bharat,Raipur,Kolkata,2026-05-09,2026-03-11,2A,48,Male,1217,Debit Card,RAC,No
+BK456,P955,Rajdhani Express,Raipur,Kolkata,2026-11-21,2026-09-23,3A,33,Female,448,Credit Card,Confirmed,No
+BK457,P956,Vande Bharat,Mumbai,Kolkata,2026-04-06,2026-03-05,3A,20,Female,873,Credit Card,RAC,No
+BK458,P957,Garib Rath,Mumbai,Mumbai,2026-09-04,2026-08-23,SL,25,Female,1579,Credit Card,Confirmed,No
+BK459,P958,Garib Rath,Mumbai,Mumbai,2026-09-20,2026-08-21,3A,52,Female,2137,Debit Card,Confirmed,No
+BK460,P959,Garib Rath,Raipur,Delhi,2026-01-17,2026-01-07,3A,24,Female,1602,Debit Card,Confirmed,No
+BK461,P960,Duronto Express,Raipur,Bhopal,2026-10-26,2026-09-01,2A,47,Male,454,Debit Card,RAC,No
+BK462,P961,Rajdhani Express,Nagpur,Pune,2026-09-23,2026-07-30,2A,61,Female,1312,Credit Card,Confirmed,No
+BK463,P962,Rajdhani Express,Nagpur,Mumbai,2026-10-27,2026-09-12,2A,18,Male,2247,Debit Card,Confirmed,No
+BK464,P963,Vande Bharat,Raipur,Delhi,2026-06-13,2026-06-10,2A,19,Female,483,UPI,RAC,No
+BK465,P964,Duronto Express,Delhi,Pune,2026-10-24,2026-08-26,2A,28,Male,1562,Debit Card,Confirmed,No
+BK466,P965,Garib Rath,Nagpur,Pune,2026-10-09,2026-09-12,CC,32,Male,2293,Credit Card,RAC,No
+BK467,P966,Duronto Express,Bilaspur,Delhi,2026-09-22,2026-08-09,SL,35,Female,1022,Debit Card,Confirmed,No
+BK468,P967,Garib Rath,Nagpur,Pune,2026-12-18,2026-12-16,CC,64,Female,463,UPI,Confirmed,No
+BK469,P968,Vande Bharat,Delhi,Mumbai,2026-07-11,2026-06-01,CC,60,Male,509,Debit Card,Confirmed,No
+BK470,P969,Rajdhani Express,Mumbai,Kolkata,2026-11-04,2026-09-07,CC,55,Male,2260,Credit Card,Waiting List,No
+BK471,P970,Vande Bharat,Mumbai,Bhopal,2026-12-06,2026-12-04,CC,22,Male,2413,Cash,Waiting List,No
+BK472,P971,Shatabdi Express,Nagpur,Pune,2026-03-27,2026-02-03,2A,33,Female,418,Cash,Confirmed,No
+BK473,P972,Vande Bharat,Nagpur,Mumbai,2026-07-19,2026-06-25,CC,27,Male,1767,UPI,Waiting List,No
+BK474,P973,Garib Rath,Delhi,Mumbai,2026-06-04,2026-04-12,CC,57,Male,2405,Cash,Waiting List,No
+BK475,P974,Rajdhani Express,Mumbai,Kolkata,2026-05-12,2026-04-30,SL,58,Male,2325,Debit Card,Confirmed,No
+BK476,P975,Garib Rath,Raipur,Pune,2026-04-03,2026-02-13,CC,39,Male,2185,Debit Card,Confirmed,No
+BK477,P976,Garib Rath,Bilaspur,Pune,2026-12-13,2026-11-27,SL,34,Female,1618,UPI,Confirmed,No
+BK478,P977,Duronto Express,Bilaspur,Delhi,2026-02-28,2026-02-11,CC,50,Female,474,Credit Card,Confirmed,No
+BK479,P978,Rajdhani Express,Nagpur,Pune,2026-06-28,2026-06-24,CC,29,Female,1060,Debit Card,Confirmed,No
+BK480,P979,Vande Bharat,Nagpur,Mumbai,2026-04-10,2026-03-11,SL,51,Male,908,Cash,Waiting List,No
+BK481,P980,Rajdhani Express,Raipur,Pune,2026-05-02,2026-04-13,2A,59,Male,2457,Cash,RAC,No
+BK482,P981,Rajdhani Express,Nagpur,Mumbai,2026-10-12,2026-09-01,SL,58,Male,1201,Debit Card,RAC,No
+BK483,P982,Duronto Express,Bilaspur,Pune,2026-04-16,2026-02-25,SL,61,Male,2005,Cash,RAC,No
+BK484,P983,Duronto Express,Bilaspur,Mumbai,2026-01-14,2025-12-22,SL,33,Female,1820,Credit Card,Waiting List,No
+BK485,P984,Duronto Express,Nagpur,Pune,2026-10-28,2026-09-03,2A,40,Female,894,Cash,RAC,Yes
+BK486,P985,Shatabdi Express,Delhi,Kolkata,2026-09-18,2026-08-10,CC,42,Female,1617,Credit Card,Waiting List,Yes
+BK487,P986,Rajdhani Express,Delhi,Kolkata,2026-06-04,2026-04-23,2A,52,Female,528,Credit Card,Confirmed,Yes
+BK488,P987,Rajdhani Express,Bilaspur,Kolkata,2026-11-18,2026-10-19,2A,24,Female,1701,Cash,Waiting List,Yes
+BK489,P988,Duronto Express,Delhi,Pune,2026-04-28,2026-03-30,CC,35,Female,876,Credit Card,Confirmed,Yes
+BK490,P989,Vande Bharat,Bilaspur,Delhi,2026-07-07,2026-05-15,2A,27,Female,1432,Credit Card,RAC,Yes
+BK491,P990,Vande Bharat,Raipur,Bhopal,2026-05-03,2026-03-21,3A,35,Male,871,Cash,Confirmed,Yes
+BK492,P991,Garib Rath,Nagpur,Bhopal,2026-05-22,2026-05-01,3A,63,Male,758,Debit Card,RAC,No
+BK493,P992,Rajdhani Express,Bilaspur,Pune,2026-06-16,2026-05-10,3A,57,Female,759,Debit Card,Waiting List,No
+BK494,P993,Duronto Express,Nagpur,Delhi,2026-01-14,2025-11-30,2A,38,Female,807,Credit Card,Confirmed,No
+BK495,P994,Vande Bharat,Mumbai,Bhopal,2026-11-10,2026-11-07,CC,44,Female,508,Credit Card,RAC,No
+BK496,P995,Garib Rath,Raipur,Bhopal,2026-06-14,2026-06-13,2A,18,Female,2085,Credit Card,Waiting List,No
+BK497,P996,Duronto Express,Mumbai,Pune,2026-08-25,2026-08-14,CC,52,Female,2382,Debit Card,Waiting List,No
+BK498,P997,Duronto Express,Mumbai,Bhopal,2026-06-06,2026-04-09,2A,46,Male,596,Debit Card,Confirmed,No
+BK499,P998,Vande Bharat,Raipur,Bhopal,2026-10-23,2026-09-05,SL,53,Male,1339,Cash,Confirmed,No
+BK500,P999,Duronto Express,Nagpur,Bhopal,2026-02-03,2025-12-23,SL,59,Male,592,Credit Card,Confirmed,No
